@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = dorin.m.calin@gmail.com
+	name = Dorian Calin
